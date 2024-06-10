@@ -1,0 +1,12 @@
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\bin\Debug\net8.0\Shop.Core.deps.json
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\bin\Debug\net8.0\Shop.Core.dll
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\bin\Debug\net8.0\Shop.Core.pdb
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\obj\Debug\net8.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\obj\Debug\net8.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\obj\Debug\net8.0\Shop.Core.AssemblyInfo.cs
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\obj\Debug\net8.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\obj\Debug\net8.0\Shop.Core.sourcelink.json
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\obj\Debug\net8.0\Shop.Core.dll
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\obj\Debug\net8.0\refint\Shop.Core.dll
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\obj\Debug\net8.0\Shop.Core.pdb
+C:\Users\aynuran\Desktop\New folder\Shop\Shop.Core\obj\Debug\net8.0\ref\Shop.Core.dll
